@@ -1,0 +1,31 @@
+application.yml
+
+# Compiled class file
+*.class
+
+procfile
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+*.sh
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+target
+
+.idea
+*.iml
+.DS_Store
+.rdb
+.sql
