@@ -2,6 +2,8 @@
 
 This is a configurable Telegram bot that sends you notifications about new questions asked on [StackExchange](https://stackexchange.com/) projects.
 
+[![Build Status](https://travis-ci.org/riguron/StackExchangeBot.svg?branch=master)](https://travis-ci.org/riguron/StackExchangeBot)
+
 ![](https://i.imgur.com/NHNmpzm.png)
 
 ## Technology
