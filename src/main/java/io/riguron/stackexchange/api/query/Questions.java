@@ -1,6 +1,5 @@
-package io.riguron.stackoverflow.api.query;
+package io.riguron.stackexchange.api.query;
 
-import lombok.Data;
 import lombok.EqualsAndHashCode;
 import lombok.Getter;
 import lombok.ToString;

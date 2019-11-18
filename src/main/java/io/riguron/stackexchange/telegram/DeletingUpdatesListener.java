@@ -1,4 +1,4 @@
-package io.riguron.stackoverflow.telegram;
+package io.riguron.stackexchange.telegram;
 
 import com.pengrad.telegrambot.TelegramBot;
 import com.pengrad.telegrambot.UpdatesListener;

@@ -1,8 +1,8 @@
-package io.riguron.stackoverflow.polling;
+package io.riguron.stackexchange.polling;
 
-import io.riguron.stackoverflow.api.StackExchangeClient;
-import io.riguron.stackoverflow.api.query.Question;
-import io.riguron.stackoverflow.api.query.QuestionsQuery;
+import io.riguron.stackexchange.api.StackExchangeClient;
+import io.riguron.stackexchange.api.query.Question;
+import io.riguron.stackexchange.api.query.QuestionsQuery;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.scheduling.annotation.Scheduled;
 

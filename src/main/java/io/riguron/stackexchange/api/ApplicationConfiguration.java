@@ -1,22 +1,16 @@
-package io.riguron.stackoverflow.api;
+package io.riguron.stackexchange.api;
 
-import io.riguron.stackoverflow.polling.NewPostHandler;
-import io.riguron.stackoverflow.polling.Options;
-import io.riguron.stackoverflow.polling.UpdatesPoller;
 import org.apache.http.client.HttpClient;
 import org.apache.http.client.config.RequestConfig;
 import org.apache.http.impl.client.CloseableHttpClient;
 import org.apache.http.impl.client.HttpClientBuilder;
 import org.apache.http.impl.client.HttpClients;
-import org.springframework.beans.factory.annotation.Qualifier;
-import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.http.client.*;
 import org.springframework.scheduling.annotation.EnableScheduling;
 import org.springframework.web.client.RestTemplate;
 
-import java.util.Arrays;
 import java.util.concurrent.TimeUnit;
 
 @Configuration

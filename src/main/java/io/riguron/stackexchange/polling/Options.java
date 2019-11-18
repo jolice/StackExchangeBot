@@ -1,4 +1,4 @@
-package io.riguron.stackoverflow.polling;
+package io.riguron.stackexchange.polling;
 
 import lombok.Value;
 

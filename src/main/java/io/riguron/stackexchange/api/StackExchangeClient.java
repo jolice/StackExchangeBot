@@ -1,7 +1,7 @@
-package io.riguron.stackoverflow.api;
+package io.riguron.stackexchange.api;
 
-import io.riguron.stackoverflow.api.query.Query;
-import io.riguron.stackoverflow.api.query.Response;
+import io.riguron.stackexchange.api.query.Query;
+import io.riguron.stackexchange.api.query.Response;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.http.HttpMethod;
 import org.springframework.http.RequestEntity;

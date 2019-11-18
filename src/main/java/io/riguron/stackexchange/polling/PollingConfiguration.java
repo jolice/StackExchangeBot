@@ -1,6 +1,6 @@
-package io.riguron.stackoverflow.polling;
+package io.riguron.stackexchange.polling;
 
-import io.riguron.stackoverflow.api.StackExchangeClient;
+import io.riguron.stackexchange.api.StackExchangeClient;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

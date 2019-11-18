@@ -1,4 +1,4 @@
-package io.riguron.stackoverflow.api.query;
+package io.riguron.stackexchange.api.query;
 
 import org.springframework.core.ParameterizedTypeReference;
 

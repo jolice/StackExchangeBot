@@ -1,11 +1,11 @@
-package io.riguron.stackoverflow.telegram;
+package io.riguron.stackexchange.telegram;
 
 import com.pengrad.telegrambot.TelegramBot;
 import com.pengrad.telegrambot.model.request.InlineKeyboardButton;
 import com.pengrad.telegrambot.model.request.InlineKeyboardMarkup;
 import com.pengrad.telegrambot.request.SendMessage;
-import io.riguron.stackoverflow.api.query.Question;
-import io.riguron.stackoverflow.polling.NewPostHandler;
+import io.riguron.stackexchange.api.query.Question;
+import io.riguron.stackexchange.polling.NewPostHandler;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.scheduling.annotation.Scheduled;
