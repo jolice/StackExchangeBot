@@ -1,6 +1,6 @@
-# StackOverflow Bot
+# StackExchange Bot
 
-This is a configurable Telegram bot that sends you notifications about new questions asked on [StackOverflow](https://stackoverflow.com).
+This is a configurable Telegram bot that sends you notifications about new questions asked on [StackExchange](https://stackexchange.com/) projects.
 
 ![](https://i.imgur.com/NHNmpzm.png)
 
@@ -15,8 +15,8 @@ This bot performs API requests anonymously, so while configuring a bot, keep thi
 First, cllone the directory:
 
 ```bash
-git clone git@github.com:riguron/StackOverflowBot.git
-cd StackOverflowBot
+git clone git@github.com:riguron/StackExchangeBot.git
+cd StackExchangeBot
 ```
 
 And build a bot with [Spring Boot Maven Plugin](https://docs.spring.io/spring-boot/docs/current/reference/html/build-tool-plugins.html):
